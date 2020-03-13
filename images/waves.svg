@@ -1,0 +1,18 @@
+
+
+<svg width="1920px" height="170px" viewBox="0 0 1920 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="49.253%" y1="85.804%" x2="49.253%" y2="43.074%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="waves">
+            <path d="M1920,4.72 L1920,74.22 C1557.37,134.256 1227.203,129.756 929.5,60.72 C565.833,-23.614 256,12.814 0,170.001 L0,4.72 L1920,4.72 Z" id="Path" fill="url(#linearGradient-1)" transform="translate(960.000000, 87.360500) rotate(180.000000) translate(-960.000000, -87.360500) "></path>
+            <path d="M0,170 L0,99 C269.033,28.56 603.533,32.56 1003.5,111 C1493,207 1920,4.719 1920,4.719 L1920,170 L0,170 Z" id="Path" fill-opacity="0.3" fill="#FFFFFF"></path>
+            <path d="M0,170 L0,99 C372.115,4.216 704.281,-4.951 996.5,71.5 C1362.167,167.167 1670,144.906 1920,4.719 L1920,170 L0,170 Z" id="Path" fill-opacity="0.3" fill="#FFFFFF"></path>
+            <path d="M0,170 L0,103 C234.912631,41.6248081 450.619679,10.2406259 647.120737,8.84765711 C784.656025,7.87268847 912.782493,21.5901128 1031.5,50 C1464,153.5 1785.5,64.5 1920,0 L1920,170 L0,170 Z" id="Path" fill-opacity="0.35" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
